@@ -236,3 +236,5 @@ export interface Gallery extends BasePageConfig {
     orientation: string;
   }>;
 }
+
+export interface Music extends BasePageConfig {}
